@@ -1,0 +1,8 @@
+{
+  "name": "manga-reader-mobile-v1",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react",
+  "id": "558ca71c"
+}

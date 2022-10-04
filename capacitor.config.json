@@ -1,0 +1,6 @@
+{
+	"appId": "io.ionic.starter",
+	"appName": "manga-reader-mobile-v1",
+	"webDir": "build",
+	"bundledWebRuntime": false
+}
